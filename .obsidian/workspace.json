@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slurm/afl_commands.md",
+                "file": "slurm/commands/afl_commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slurm/afl_commands.md",
+                "file": "slurm/commands/afl_commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b7a3f9a77410b3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slurm/notes/configuration_dataflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "438e6d2c2795a362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slurm/notes/execv_points.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d925953d2c2ea63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slurm/commands/ubccr_simulator_commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slurm/data_dependency_commands.md",
+                "file": "slurm/commands/data_dependency_commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slurm/afl_commands.md",
+                "file": "slurm/commands/ubccr_simulator_commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slurm/afl_commands.md",
+                "file": "slurm/commands/ubccr_simulator_commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "slurm/afl_commands.md"
+                "file": "slurm/commands/ubccr_simulator_commands.md"
               }
             }
           }
@@ -171,10 +207,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7ed336e5e09dbe9",
+  "active": "7d925953d2c2ea63",
   "lastOpenFiles": [
-    "slurm/data_dependency_commands.md",
-    "slurm/afl_commands.md",
-    "slurm/build_commands.md"
+    "slurm/notes/execv_points.md",
+    "Untitled.md",
+    "slurm/notes/configuration_dataflow.md",
+    "slurm/commands/afl_commands.md",
+    "slurm/commands/data_dependency_commands.md",
+    "slurm/commands/build_commands.md"
   ]
 }
