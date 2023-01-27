@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "578bc814b58a92f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slurm/notes/scheduler_notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f41b1605632a1d52",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slurm/commands/ubccr_simulator_commands.md",
+                "file": "slurm/notes/scheduler_notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slurm/commands/ubccr_simulator_commands.md",
+                "file": "slurm/notes/scheduler_notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "slurm/commands/ubccr_simulator_commands.md"
+                "file": "slurm/notes/scheduler_notes.md"
               }
             }
           }
@@ -207,8 +219,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d925953d2c2ea63",
+  "active": "578bc814b58a92f4",
   "lastOpenFiles": [
+    "slurm/commands/ubccr_simulator_commands.md",
     "slurm/notes/execv_points.md",
     "Untitled.md",
     "slurm/notes/configuration_dataflow.md",
