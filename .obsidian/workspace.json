@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slurm/commands/afl_commands.md",
+                "file": "research_uou/slurm/commands/afl_commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slurm/commands/afl_commands.md",
+                "file": "research_uou/slurm/commands/afl_commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slurm/notes/configuration_dataflow.md",
+                "file": "research_uou/slurm/notes/configuration_dataflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slurm/notes/execv_points.md",
+                "file": "research_uou/slurm/notes/execv_points.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slurm/commands/ubccr_simulator_commands.md",
+                "file": "research_uou/slurm/commands/ubccr_simulator_commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slurm/notes/scheduler_notes.md",
+                "file": "research_uou/slurm/notes/scheduler_notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slurm/commands/data_dependency_commands.md",
+                "file": "research_uou/slurm/commands/data_dependency_commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,6 +137,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "502ef4c28fb9fa1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -158,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slurm/notes/scheduler_notes.md",
+                "file": "research_uou/slurm/notes/scheduler_notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slurm/notes/scheduler_notes.md",
+                "file": "research_uou/slurm/notes/scheduler_notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "slurm/notes/scheduler_notes.md"
+                "file": "research_uou/slurm/notes/scheduler_notes.md"
               }
             }
           }
@@ -219,14 +227,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "578bc814b58a92f4",
+  "active": "d353992cdbe310a2",
   "lastOpenFiles": [
-    "slurm/commands/ubccr_simulator_commands.md",
-    "slurm/notes/execv_points.md",
+    "research_uou/invariant_fuzz/seed-2 1",
+    "research_uou/invariant_fuzz/seed-2",
+    "research_uou/invariant_fuzz/seed-1 1",
+    "research_uou/invariant_fuzz/seed-1",
+    "research_uou/invariant_fuzz/json_files.png",
+    "research_uou/invariant_fuzz/invscov",
+    "research_uou/invariant_fuzz/decls_file.png",
+    "research_uou/invariant_fuzz/decls_file 1.png",
+    "research_uou/invariant_fuzz/Report.md",
+    "research_uou/invariant_fuzz/OurApproach.png",
+    "research_uou/invariant_fuzz",
+    "research_uou/pumice/decls_file.png",
+    "research_uou/pumice/seed-1",
+    "research_uou/pumice/OurApproach.png",
+    "research_uou/pumice/decls_file 1.png",
+    "research_uou/pumice/invscov",
+    "research_uou/pumice/seed-2",
+    "research_uou/pumice/seed-1 1",
+    "research_uou/pumice/Report.md",
+    "research_uou/pumice/json_files.png",
+    "research_uou/pumice/seed-2 1",
+    "research_uou/slurm/notes/execv_points.md",
+    "research_uou/slurm/notes/configuration_dataflow.md",
+    "research_uou/slurm/commands/ubccr_simulator_commands.md",
+    "research_uou/slurm/commands/data_dependency_commands.md",
+    "research_uou/slurm/commands/afl_commands.md",
+    "research_uou/slurm/notes/scheduler_notes.md",
     "Untitled.md",
-    "slurm/notes/configuration_dataflow.md",
-    "slurm/commands/afl_commands.md",
-    "slurm/commands/data_dependency_commands.md",
-    "slurm/commands/build_commands.md"
+    "research_uou/slurm/commands/build_commands.md"
   ]
 }
