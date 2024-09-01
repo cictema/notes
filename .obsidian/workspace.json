@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9693c5e520acbaf4",
+        "id": "d033b11f1c3a115d",
         "type": "tabs",
         "children": [
           {
-            "id": "530d3a4d95cf3685",
+            "id": "f493778fcef994d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research_uou/slurm/commands/afl_commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7ed336e5e09dbe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research_uou/slurm/commands/afl_commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b7a3f9a77410b3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research_uou/slurm/notes/configuration_dataflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "438e6d2c2795a362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research_uou/slurm/notes/execv_points.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d925953d2c2ea63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research_uou/slurm/commands/ubccr_simulator_commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "578bc814b58a92f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research_uou/slurm/notes/scheduler_notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f41b1605632a1d52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research_uou/slurm/commands/data_dependency_commands.md",
+                "file": "dsa/bitwise.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research_uou/slurm/notes/scheduler_notes.md",
+                "file": "dsa/bitwise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "research_uou/slurm/notes/scheduler_notes.md",
+                "file": "dsa/bitwise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research_uou/slurm/notes/scheduler_notes.md"
+                "file": "dsa/bitwise.md"
               }
             }
           }
@@ -227,36 +154,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d353992cdbe310a2",
+  "active": "f493778fcef994d6",
   "lastOpenFiles": [
+    "web/javascript.md",
+    "java",
+    "dotnet",
+    "Untitled.md",
+    "dsa/bitwise.md",
+    "dsa/readme.md",
+    "dsa/untitled folder",
+    "dsa",
+    "research_uou/slurm/commands/ubccr_simulator_commands.md",
+    "research_uou/invariant_fuzz/decls_file.png",
+    "research_uou/invariant_fuzz/json_files.png",
+    "research_uou/invariant_fuzz/decls_file 1.png",
+    "research_uou/slurm/commands/afl_commands.md",
+    "research_uou/slurm/notes/scheduler_notes.md",
+    "research_uou/slurm/commands/data_dependency_commands.md",
+    "web",
+    "web/frontend/react",
+    "web/frontend",
     "research_uou/invariant_fuzz/seed-2 1",
     "research_uou/invariant_fuzz/seed-2",
     "research_uou/invariant_fuzz/seed-1 1",
-    "research_uou/invariant_fuzz/seed-1",
-    "research_uou/invariant_fuzz/json_files.png",
-    "research_uou/invariant_fuzz/invscov",
-    "research_uou/invariant_fuzz/decls_file.png",
-    "research_uou/invariant_fuzz/decls_file 1.png",
     "research_uou/invariant_fuzz/Report.md",
     "research_uou/invariant_fuzz/OurApproach.png",
-    "research_uou/invariant_fuzz",
     "research_uou/pumice/decls_file.png",
-    "research_uou/pumice/seed-1",
     "research_uou/pumice/OurApproach.png",
     "research_uou/pumice/decls_file 1.png",
-    "research_uou/pumice/invscov",
-    "research_uou/pumice/seed-2",
-    "research_uou/pumice/seed-1 1",
     "research_uou/pumice/Report.md",
     "research_uou/pumice/json_files.png",
-    "research_uou/pumice/seed-2 1",
     "research_uou/slurm/notes/execv_points.md",
     "research_uou/slurm/notes/configuration_dataflow.md",
-    "research_uou/slurm/commands/ubccr_simulator_commands.md",
-    "research_uou/slurm/commands/data_dependency_commands.md",
-    "research_uou/slurm/commands/afl_commands.md",
-    "research_uou/slurm/notes/scheduler_notes.md",
-    "Untitled.md",
     "research_uou/slurm/commands/build_commands.md"
   ]
 }
