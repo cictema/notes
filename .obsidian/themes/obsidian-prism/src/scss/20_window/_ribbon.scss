@@ -1,0 +1,73 @@
+/*────────── Ribbon ──────────*/
+
+.workspace-ribbon {
+    & .side-dock-actions,
+    & .side-dock-settings {
+        // General (at rest, on hover, and when active)
+        .clickable-icon {
+            color: var(--non-alternating-color);
+            background: var(--icon-bg);
+            
+            &:hover {
+                background: var(--icon-bg-hover);
+                cursor: var(--cursor);
+            }
+
+            &.is-active {
+                background: var(--icon-bg-active);
+            }
+
+            // Alternating Colors (on hover, on pressing, and when active)
+            &:nth-child(3n+1) {
+                &.is-active,
+                &:hover {
+                    color: var(--alternating-color-1);
+                }
+
+                &:active {
+                    color: var(--alternating-color-1-hover-active);
+                }
+            }
+
+            &:nth-child(3n+2) {
+                &.is-active,
+                &:hover {
+                    color: var(--alternating-color-2);
+                }
+
+                &:active {
+                    color: var(--alternating-color-2-hover-active);
+                }
+            }
+
+            &:nth-child(3n+3) {
+                &.is-active,
+                &:hover {
+                    color: var(--alternating-color-3);
+                }
+
+                &:active {
+                    color: var(--alternating-color-3-hover-active);
+                }
+            }
+        }
+    }
+
+    &.mod-left {
+        &:before {
+            border-bottom: none;
+        }
+    
+        border: var(--ribbon-border-width) solid var(--divider-color);
+        border-left: none;
+
+        border-top-right-radius: var(--ribbon-top-right-radius);
+        border-bottom-right-radius: var(--ribbon-bottom-right-radius);
+        margin-bottom: var(--ribbon-margin-bottom);
+    }
+}
+
+// Mobile
+.workspace-drawer-ribbon {
+    border-right: 1px solid var(--background-modifier-border);
+}

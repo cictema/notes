@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa/bitwise.md",
+                "file": "web/node.js/express.js.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07bb872b70cab501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web/node.js/interview_essential.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ca2b7a60af7f496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web/node.js/interview_essential.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa/bitwise.md",
+                "file": "web/node.js/interview_essential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa/bitwise.md",
+                "file": "web/node.js/interview_essential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa/bitwise.md"
+                "file": "web/node.js/interview_essential.md"
               }
             }
           }
@@ -154,38 +179,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d353992cdbe310a2",
+  "active": "9ca2b7a60af7f496",
   "lastOpenFiles": [
-    "web/javascript.md",
+    "web/node.js/express.js.md",
+    "web/node.js/packages.md",
+    "web/javascript/8_working_with_arrays.md",
+    "web/javascript/7_working_with_functions.md",
+    "web/javascript/6_data_structures.md",
+    "web/javascript/9_numbers_dates_intl_timers.md",
+    "web/javascript/5_behind_the_scenes.md",
+    "web/javascript/4_dom_manipulation.md",
+    "web/javascript/3_html_css.md",
+    "web/javascript/1_fundamentals.1.md",
+    "web/javascript/2_fundamentals.2.md",
+    "web/javascript/12_async_javascript.md",
+    "web/javascript/13_modules_tooling.md",
+    "web/javascript/14_deployment.md",
+    "web/node.js/interview_essential.md",
+    "chatbot/kore.ai/backend_integration.md",
+    "chatbot/kore.ai/subham_capital_chatbot.md",
+    "chatbot/kore.ai/basic.md",
+    "web/node.js/mongodb.md",
+    "web/node.js/devops.md",
+    "web/node.js/3_filesystem_and_commandline_args.md",
+    "web/node.js/complete_auth.md",
+    "web/node.js/node_oauth.md",
+    "web/node.js/node_jwt.md",
+    "web/node.js/mongo_mongoose.md",
+    "web/javascript/10_advanced_dom_and_events.md",
+    "chatbot/azurebot",
+    "chatbot/kore.ai",
+    "chatbot/rasa",
+    "chatbot",
+    "web/javascript",
+    "web/node.js",
     "java",
     "dotnet",
-    "Untitled.md",
-    "dsa/bitwise.md",
-    "dsa/readme.md",
     "dsa/untitled folder",
     "dsa",
-    "research/slurm/commands/ubccr_simulator_commands.md",
     "research/invariant_fuzz/decls_file.png",
     "research/invariant_fuzz/json_files.png",
     "research/invariant_fuzz/decls_file 1.png",
-    "research/slurm/commands/afl_commands.md",
-    "research/slurm/notes/scheduler_notes.md",
-    "research/slurm/commands/data_dependency_commands.md",
-    "web",
-    "web/frontend/react",
-    "web/frontend",
-    "research/invariant_fuzz/seed-2 1",
-    "research/invariant_fuzz/seed-2",
-    "research/invariant_fuzz/seed-1 1",
-    "research/invariant_fuzz/Report.md",
     "research/invariant_fuzz/OurApproach.png",
     "research_uou/pumice/decls_file.png",
     "research_uou/pumice/OurApproach.png",
     "research_uou/pumice/decls_file 1.png",
-    "research_uou/pumice/Report.md",
-    "research_uou/pumice/json_files.png",
-    "research/slurm/notes/execv_points.md",
-    "research/slurm/notes/configuration_dataflow.md",
-    "research/slurm/commands/build_commands.md"
+    "research_uou/pumice/json_files.png"
   ]
 }
