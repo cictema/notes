@@ -1,4 +1,4 @@
-1. Bot Framework:
+it 1. Bot Framework:
     1. Channel:
         1. FB Messenger, Telegram, Web, etc
         2. User -> Channel -> Bot

@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f493778fcef994d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "languages_and_frameworks/web/node.js/express.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07bb872b70cab501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "languages_and_frameworks/web/node.js/interview_essential.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ca2b7a60af7f496",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "interviews/networking/connection_notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8f070d18771f2644",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "languages_and_frameworks/chatbot/azurebot/Basic Content.md",
+                "file": "machine_learning/math/3blue1brown/linear_algebra/matrices_as_linear_transformations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "languages_and_frameworks/chatbot/azurebot/Basic Content.md",
+                "file": "machine_learning/math/3blue1brown/linear_algebra/matrices_as_linear_transformations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "languages_and_frameworks/chatbot/azurebot/Basic Content.md",
+                "file": "machine_learning/math/3blue1brown/linear_algebra/matrices_as_linear_transformations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "languages_and_frameworks/chatbot/azurebot/Basic Content.md"
+                "file": "machine_learning/math/3blue1brown/linear_algebra/matrices_as_linear_transformations.md"
               }
             }
           }
@@ -193,45 +156,45 @@
   },
   "active": "8f070d18771f2644",
   "lastOpenFiles": [
-    "machine_learning/math/Linear Algebra.md",
+    "machine_learning/math/3blue1brown/linear_algebra/0_main_linear_algebra.md",
+    "machine_learning/math/3blue1brown/linear_algebra/matrices_as_linear_transformations.md",
+    "machine_learning/math/3blue1brown/linear_algebra/combinations_span_basis.md",
+    "machine_learning/math/3blue1brown/linear_algebra/vectors.md",
+    "machine_learning/math/weights_and_biases/0_main_math_for_ml.md",
+    "machine_learning/math/3blue1brown/linear_algebra",
+    "machine_learning/math/3blue1brown",
+    "machine_learning/math/weights_and_biases/probability_and_stats_for_ml.md",
+    "machine_learning/math/weights_and_biases/linear_algebra_for_ml.md",
+    "machine_learning/math/weights_and_biases/calculus_for_ml.md",
+    "machine_learning/datascience/sk-learn/feature_scaling_in_sklearn.md",
+    "machine_learning/math/weights_and_biases",
+    "machine_learning/datascience/sk-learn/train_test_split_in_sklearn.md",
+    "machine_learning/datascience/sk-learn/0_main_sklearn.md",
+    "machine_learning/datascience/pandas/0_main_pandas.md",
+    "machine_learning/datascience/sk-learn",
+    "machine_learning/datascience/pandas/dataframe.md",
+    "machine_learning/datascience/pandas/data_cleaning_in_pandas.md",
+    "machine_learning/datascience/pandas/explode_column_in_pandas.md",
+    "machine_learning/datascience/pandas/lambda_functions_in_python.md",
+    "machine_learning/datascience/pandas/groupby_in_pandas.md",
+    "machine_learning/datascience/pandas/split_in_pandas.md",
+    "machine_learning/datascience/pandas/shift_in_pandas.md",
+    "machine_learning/datascience/pandas",
+    "languages_and_frameworks/chatbot/langchain/RAG Project.md",
+    "machine_learning/datascience",
+    "languages_and_frameworks/chatbot/langchain/Important Links.md",
+    "languages_and_frameworks/chatbot/langchain/Langchain.md",
+    "interviews/networking/connection_notes.md",
+    "languages_and_frameworks/web/node.js/interview_essential.md",
+    "languages_and_frameworks/web/node.js/express.js.md",
     "languages_and_frameworks/chatbot/azurebot/Basic Content.md",
+    "languages_and_frameworks/chatbot/langchain",
     "machine_learning/images/matrix_mult_1.png",
     "machine_learning/images/matrix_mult_2.png",
     "machine_learning/images",
-    "machine_learning/math/math_for_machine_learning.md",
     "machine_learning/math",
-    "interviews/prep/dsa/bitwise/bitwise.md",
     "interviews/prep/dsa/two_pointer",
-    "interviews/prep/dsa/bitwise",
-    "conversational_design/chat_user_interfaces",
-    "conversational_design/voice_user_interfaces",
-    "conversational_design",
-    "machine_learning/basic.md",
-    "machine_learning/supervised_learning.md",
-    "interviews/networking/connection_notes.md",
-    "machine_learning",
-    "interviews/questions/for_interviewers.md",
-    "interviews/networking",
-    "interviews/questions/for_recruiters.md",
-    "interviews/questions",
     "interviews/Untitled.canvas",
-    "interviews/prep/plan.md",
-    "languages_and_frameworks/web/javascript/3_html_css.md",
-    "languages_and_frameworks/web/javascript/2_fundamentals.2.md",
-    "languages_and_frameworks/web/javascript/1_fundamentals.1.md",
-    "languages_and_frameworks/web/javascript/0_main.md",
-    "languages_and_frameworks/web/javascript/10_advanced_dom_and_events.md",
-    "languages_and_frameworks/web/javascript/7_working_with_functions.md",
-    "languages_and_frameworks/web/javascript/4_dom_manipulation.md",
-    "languages_and_frameworks/web/javascript/5_behind_the_scenes.md",
-    "languages_and_frameworks/web/javascript/6_data_structures.md",
-    "languages_and_frameworks/web/javascript/8_working_with_arrays.md",
-    "languages_and_frameworks/chatbot/kore.ai/backend_integration.md",
-    "languages_and_frameworks/chatbot/kore.ai/basic.md",
-    "languages_and_frameworks/chatbot/kore.ai/subham_capital_chatbot.md",
-    "languages_and_frameworks/chatbot/rasa/Rasa Project.md",
-    "languages_and_frameworks/web/node.js/interview_essential.md",
-    "languages_and_frameworks/web/node.js/express.js.md",
     "research/invariant_fuzz/decls_file.png",
     "research/invariant_fuzz/json_files.png",
     "research/invariant_fuzz/decls_file 1.png",

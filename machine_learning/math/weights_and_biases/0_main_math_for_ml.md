@@ -3,16 +3,16 @@ Machine learning is programming by optimization.
 We need math to understand that optimization.
 
 
-## Linear Algebra
+## [[linear_algebra_for_ml]]
 To understand the objects being optimized.
 For example, data and models are arrays.
 
 
-## Calculus
+## [[calculus_for_ml]]
 To understand how we optimize.
 With tiny changes.
 
-## Probability and Statistics
+## [[probability_and_stats_for_ml]]
 To understand what we want to optimize.
 Reduce surprise/uncertainty
 
